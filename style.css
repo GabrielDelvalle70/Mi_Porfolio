@@ -7,6 +7,10 @@ h2 {
     color: blue;
 }
 
+nav ul{
+    background-color: aqua;
+}
+
 section {
     border: 2px black solid;
     margin: 40px;
