@@ -1,1 +1,0 @@
-Proyecto de Wordle funcional - Minibootcamp Programando PY 2024
